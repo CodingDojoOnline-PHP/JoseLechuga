@@ -1,0 +1,37 @@
+div#container {
+    width: 970px;
+    margin: 0 auto;
+}
+
+div.welcome {
+    border-bottom: 2px solid black;
+}
+
+div.welcome h1, h3, a {
+    display: inline-block;
+}
+
+div.welcome h1 {
+    width: 400px;
+    box-sizing: border-box;
+    margin: 10px 0px 10px 20px;
+}
+
+div.welcome h3 {
+    width: 350px;
+    text-align: right;
+    margin-right: 70px;
+}
+
+div.welcome a {
+    color: blue;
+}
+
+div.message {
+    width: 800px;
+    margin: 25px auto;
+    border: 1px solid #000000;
+    background-color: deepskyblue;
+    padding: 10px;
+    color: #ffffff;
+}
